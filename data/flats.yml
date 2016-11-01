@@ -1,0 +1,21 @@
+romain:
+  name: Romain
+  city: London
+  title: Romain's home
+  description: Nice flat in Piccadilly
+  flat_picture: card-london.jpg
+  owner_image: romain.jpg
+seb:
+  name: Sebastien
+  city: Paris
+  title: Sebastien's home
+  description: Nice flat in Paris
+  flat_picture: card-paris.jpg
+  owner_image: seb.jpg
+anne:
+  name: Anne
+  city: Bruseels
+  title: Anne's home
+  description: Nice flat in Bruseels
+  flat_picture: card-brussels.jpg
+  owner_image: anne.jpg
